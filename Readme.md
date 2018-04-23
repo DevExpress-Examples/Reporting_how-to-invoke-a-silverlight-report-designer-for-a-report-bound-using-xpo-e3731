@@ -1,0 +1,11 @@
+# How to invoke a Silverlight Report Designer for a report bound using XPO
+
+
+<p>This sample shows how you can provide an in-browser Report Designer in your Silverlight application for editing reports that are bound using <a href="http://documentation.devexpress.com/#XPO/CustomDocument1998"><u>XPO</u></a>.</p><p>See also:<br />
+- <a href="https://www.devexpress.com/Support/Center/p/E3690">How to use the Silverlight report designer</a>;<br />
+- <a href="https://www.devexpress.com/Support/Center/p/E3729">How to invoke a Silverlight Report Designer for a report bound to a dataset</a>;<br />
+- <a href="https://www.devexpress.com/Support/Center/p/E3730">How to invoke a Silverlight Report Designer for a report bound using Entity Framework</a>.</p>
+
+<br/>
+
+
