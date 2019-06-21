@@ -5,6 +5,9 @@
 * **[MainPage.xaml](./CS/ReportsSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/ReportsSample/MainPage.xaml))**
 <!-- default file list end -->
 # How to invoke a Silverlight Report Designer for a report bound using XPO
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3731)**
+<!-- run online end -->
 
 
 <p>This sample shows how you can provide an in-browser Report Designer in your Silverlight application for editing reports that are bound using <a href="http://documentation.devexpress.com/#XPO/CustomDocument1998"><u>XPO</u></a>.</p><p>See also:<br />
